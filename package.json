@@ -1,0 +1,16 @@
+{
+  "name": "remote-work-coaching",
+  "version": "1.0.0",
+  "description": "A platform for remote work coaching in Vietnam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0"
+  }
+}
